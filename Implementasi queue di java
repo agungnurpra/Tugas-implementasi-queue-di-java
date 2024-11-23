@@ -1,7 +1,4 @@
-/**
- *
- * @author Wim Sonevel
- */
+
 public class Queue {
 
     int data[];
